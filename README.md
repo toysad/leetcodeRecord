@@ -49,19 +49,19 @@ ___
 
 Data Structure 1-3: **Array**
 
-- (350) Intersection of Two Arrays II (Easy)  
+- (350) Intersection of Two Arrays II (Easy)    
         -- Array, Hash table, Two Pointers, Binary search, sorting
 
-- (121) Best Time to Buy and Sell Stock (Easy)
+- (121) Best Time to Buy and Sell Stock (Easy).    
         -- Array, DP
 
 
 Algorithm 1-3:   **Two Pointers**
 
-- (283) Move Zeroes  (easy)
+- (283) Move Zeroes  (easy).   
         -- Two Pointers   
         
-- (167) Two Sum II - Input Array Is Sorted (Medium)
+- (167) Two Sum II - Input Array Is Sorted (Medium).    
         -- Two pointers, binary search
         
 (unfinished)
