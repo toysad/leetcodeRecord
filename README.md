@@ -29,19 +29,19 @@ ___
 
 Data Structure 1-2: **Array** 
 
-- (1) Two Sum  (easy)    
+- (1) Two Sum  (easy)         
         -- Array, Hash table
 
-- (88) Merge Sorted Array  (easy) 
+- (88) Merge Sorted Array  (easy)       
         -- Array, Greedy, DP
 
 
 Algorithm 1-2:   **Two Pointers**
 
-- (977) Squares of a Sorted Array  (easy)
+- (977) Squares of a Sorted Array  (easy).     
         -- Two Pointers   
         
-- (189) Rotate Array  (Medium)
+- (189) Rotate Array  (Medium). 
 
 (unfinished) 
 ___
