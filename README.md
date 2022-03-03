@@ -4,17 +4,17 @@
 
 Algorithm 1-1: **Binary Search**
 
-- (704) Binary Search  (easy)    
+-       (704) Binary Search  (easy)    
         
-        -- **Binary Search**    
+        -- Binary Search    
 
-- (278) First Bad Version   (easy)   
+-       (278) First Bad Version   (easy)   
        
-       -- **Binary Search**    
+       -- Binary Search   
 
 - (035) Search Insert Position   (easy)   
        
-        -- **Binary Search**   
+        -- Binary Search   
 ____
 
 #### [Day 1](https://github.com/toysad/leetcodeRecord/blob/20a2770300001bf8db87936f2331a21aa53e8224/20220227-day1.ipynb): 
@@ -23,11 +23,11 @@ Data Structure 1-1: **Array**
 
 - (217) Contains Duplicate  (easy)        [2 Solutions]           
         
-        -- **Array, Hash table**   
+        -- Array, Hash table   
 
 - (53) Maximum Subarray  (easy)           [3 Solutions]    
         
-        -- **Array, Greedy, DP , Divide and Conquer, 线段树 Segment tree**  
+        -- Array, Greedy, DP , Divide and Conquer, 线段树 Segment tree 
 ___
 
 #### [Day 2](https://github.com/toysad/leetcodeRecord/blob/e6a2cb327d784f3e8638a5f2513ee2ebad001d7d/20220228-day2.ipynb): 
