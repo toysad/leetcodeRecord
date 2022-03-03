@@ -5,12 +5,15 @@
 Algorithm 1-1: **Binary Search**
 
 - (704) Binary Search  (easy)    
+        
         -- **Binary Search**    
 
 - (278) First Bad Version   (easy)   
-        -- **Binary Search**    
+       
+       -- **Binary Search**    
 
 - (035) Search Insert Position   (easy)   
+       
         -- **Binary Search**   
 ____
 
@@ -19,9 +22,11 @@ ____
 Data Structure 1-1: **Array** 
 
 - (217) Contains Duplicate  (easy)        [2 Solutions]           
+        
         -- **Array, Hash table**   
 
 - (53) Maximum Subarray  (easy)           [3 Solutions]    
+        
         -- **Array, Greedy, DP , Divide and Conquer, 线段树 Segment tree**  
 ___
 
@@ -30,15 +35,18 @@ ___
 Data Structure 1-2: **Array** 
 
 - (1) Two Sum  (easy)         
+        
         -- Array, Hash table
 
 - (88) Merge Sorted Array  (easy)       
-        -- Array, Greedy, DP
+       
+       -- Array, Greedy, DP
 
 
 Algorithm 1-2:   **Two Pointers**
 
 - (977) Squares of a Sorted Array  (easy).     
+        
         -- Two Pointers   
         
 - (189) Rotate Array  (Medium). 
@@ -50,18 +58,22 @@ ___
 Data Structure 1-3: **Array**
 
 - (350) Intersection of Two Arrays II (Easy)    
+        
         -- Array, Hash table, Two Pointers, Binary search, sorting
 
 - (121) Best Time to Buy and Sell Stock (Easy).    
+        
         -- Array, DP
 
 
 Algorithm 1-3:   **Two Pointers**
 
 - (283) Move Zeroes  (easy).   
+        
         -- Two Pointers   
         
 - (167) Two Sum II - Input Array Is Sorted (Medium).    
+        
         -- Two pointers, binary search
         
 (unfinished)
@@ -83,9 +95,11 @@ Data Structure 1-4:     **Array**
 Algorithm 1-4:   **Two Pointers**
 
 - (344) Reverse String (easy)                   
+        
         -- Two Pointers, string, recursion      
         
 - (557) Reverse Words in a String III    (easy)            
+        
         -- Two pointers, string          
         
 ____
@@ -94,18 +108,22 @@ ____
 
 Data Structure 1-5: **Array**.   
 
-- (36) Valid Sudoku - (Medium)        
+- (36) Valid Sudoku - (Medium)       
+      
         -- Array, matrix, hash table     
         
 - (74) Search a 2D Matrix - (Medium)         
+        
         -- Array, binary search, matrix        
         
 Algorithm 1-5: **Two Pointers**      
 
 - (876) Middle of the Linked List - (easy)       
+        
         -- Linked list, Two Pointers     
         
 - (19) Remove Nth Node From End of List - (Medium)         
-        -- Linked list, two pointers       
+       
+       -- Linked list, two pointers       
         
 ____
