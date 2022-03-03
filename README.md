@@ -67,3 +67,45 @@ Algorithm 1-3:   **Two Pointers**
 (unfinished)
 
 ___
+
+#### [Day 4](https://github.com/toysad/leetcodeRecord/blob/04d45b82b7e93f7c59fdee7bdb7e3e2796257997/20220302-day4.ipynb):
+
+Data Structure 1-4:     **Array**        
+
+- (566) Reshape the Matrix (easy)          
+
+        -- Array, matrix, simulation          
+  
+- (118) Pascal's Triangle           
+
+        -- Array, DP         
+        
+Algorithm 1-4:   **Two Pointers**
+
+- (344) Reverse String (easy)                   
+        -- Two Pointers, string, recursion      
+        
+- (557) Reverse Words in a String III    (easy)            
+        -- Two pointers, string          
+        
+____
+
+#### [Day 5](https://github.com/toysad/leetcodeRecord/blob/048517abb1e78be36fe49fb083d94f80a34775b0/20220303-day5.ipynb):
+
+Data Structure 1-5: **Array**.   
+
+- (36) Valid Sudoku - (Medium)        
+        -- Array, matrix, hash table     
+        
+- (74) Search a 2D Matrix - (Medium)         
+        -- Array, binary search, matrix        
+        
+Algorithm 1-5: **Two Pointers**      
+
+- (876) Middle of the Linked List - (easy)       
+        -- Linked list, Two Pointers     
+        
+- (19) Remove Nth Node From End of List - (Medium)         
+        -- Linked list, two pointers       
+        
+____
