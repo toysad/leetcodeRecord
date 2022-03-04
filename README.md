@@ -127,3 +127,31 @@ Algorithm 1-5: **Two Pointers**
 -- Linked list, two pointers       
         
 ____
+
+#### [Day 6](https://github.com/toysad/leetcodeRecord/blob/a213690e844782e3ffd472fc26b8e837c3cf6f2b/20220304-day6.ipynb):
+
+Data Structure 1-6: **String**.   
+
+-       (387) First Unique Character in a String (easy).          
+      
+-- hash table, string, queue, counting.           
+        
+-       (383) Ransom Note (easy)               
+        
+-- hash table, string, counting.     
+
+-       (242) Valid Anagram (easy)         
+
+-- hash table, string, sorting       
+        
+Algorithm 1-6: **Sliding Window**      
+
+-       (3) Longest Substring Without Repeating Characters (medium).           
+        
+-- hash table, string, sliding window          
+        
+-       (567) Permutation in String (medium)                
+       
+-- hash table, sliding window, two pointers, string            
+        
+____
