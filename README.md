@@ -156,4 +156,31 @@ Algorithm 1-6: **Sliding Window**
         
 ____
 
-#### [Day 7]
+#### [Day 7](https://github.com/toysad/leetcodeRecord/blob/bebcca04544f2b1ab78e641781f95af724bff1d8/20220305-day7.ipynb):
+
+
+Data structure 1-7 **Linked List**.             
+
+-      (141) Linked List Cycle - Easy        
+
+-- hash table, linked list        
+
+-      (21) Merge Two Sorted Lists - easy             
+
+-- linked list, recursion.       
+
+-      (203) Remove Linked List Elements - easy      
+
+-- linked list, recursion      
+
+Algorithm 1-7 **Breadth-First Search / Depth-First Search**.        
+
+-      (733) Flood Fill - easy       
+
+--  array, dfs      
+
+-      (695) Max Area of Island - easy       
+
+-- Array, dfs       
+
+_________
