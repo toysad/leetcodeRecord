@@ -184,3 +184,28 @@ Algorithm 1-7 **Breadth-First Search / Depth-First Search**.
 -- Array, dfs       
 
 _________
+
+#### [Day 8](https://github.com/toysad/leetcodeRecord/blob/14dbba111c8199c036f9baf061a56707e4ab6c87/20220306-day8.ipynb):
+
+Data structure 1-8 **Linked List**.             
+
+-      (206) Reverse Linked List - Easy        
+
+-- Linked list, recursion          
+
+-      (83) Remove Duplicates from Sorted List - Easy                  
+
+-- linked list          
+    
+
+Algorithm 1-8 **Breadth-First Search / Depth-First Search**.        
+
+-      (617) Merge Two Binary Trees - Easy             
+
+--  tree, dfs      
+
+-      (116) Populating Next Right Pointers in Each Node - Medium             
+
+-- linked list, dfs, tree         
+
+_________
